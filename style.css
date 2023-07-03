@@ -271,6 +271,7 @@ h2 {
     padding-left: 5px;
     padding-bottom: 20px;
     width: 77%;
+    min-width: 350px;
 }
 
 .entry-dot {
@@ -405,6 +406,7 @@ h2 {
 }
 .pdesc {
     width: 80%;
+    min-width: 350px;
 }
 .pend {
     clear: both;
