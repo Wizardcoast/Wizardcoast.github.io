@@ -408,6 +408,10 @@ h2 {
     width: 80%;
     min-width: 350px;
 }
+.award-pdesc{
+    width: 95%;
+    min-width: 350px;
+}
 .pend {
     clear: both;
 }
