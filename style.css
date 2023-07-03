@@ -251,6 +251,7 @@ h2 {
     width: 20%;
     min-width: 120px;
     padding-right: 0%;
+    padding-left: 15px;
     /* margin-right: 20px; */
 }
 .ico img {
@@ -269,7 +270,7 @@ h2 {
     font-size: 17px;
     padding-left: 5px;
     padding-bottom: 20px;
-    width: 78%;
+    width: 77%;
 }
 
 .entry-dot {
@@ -289,8 +290,11 @@ h2 {
     text-align: right;
     padding-right: 5px;
     color: #bbb;
-    /* padding-left: 50%; */
+    padding-left: 10px;
     width: 12%;
+}
+#history{
+    width: 98%;
 }
 .hassets {
     position: relative;
@@ -388,6 +392,7 @@ h2 {
     display: flex;
     margin-bottom: 10px;
     padding-bottom: 20px;
+    padding-left: 3%;
     font-size: 17px;
     /* border-bottom: 1px solid #eee; */
 }
