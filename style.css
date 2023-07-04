@@ -274,7 +274,7 @@ h2 {
     padding-left: 5px;
     padding-bottom: 20px;
     width: 71%;
-    min-width: 320px;
+    min-width: 300px;
 }
 
 .entry-dot {
@@ -417,11 +417,11 @@ h2 {
 }
 .pdesc {
     width: 80%;
-    min-width: 320px;
+    min-width: 300px;
 }
 .award-pdesc{
     width: 95%;
-    min-width: 320px;
+    min-width: 300px;
 }
 .pend {
     clear: both;
