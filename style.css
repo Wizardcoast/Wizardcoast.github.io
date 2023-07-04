@@ -271,7 +271,7 @@ h2 {
     padding-left: 5px;
     padding-bottom: 20px;
     width: 71%;
-    min-width: 300px;
+    min-width: 320px;
 }
 
 .entry-dot {
@@ -398,19 +398,27 @@ h2 {
     /* border-bottom: 1px solid #eee; */
 }
 .pico {
+    display: flex;
+    width: 15%;
+    flex-wrap: wrap;
     /* float: left; */
     /* position: relative; */
     /* height: 100%; */
-    margin-right: 2.5%;
+    margin-right: 1%;
     margin-left: 3%;
+}
+.pico-img-div{
+    max-width: 120px;
+    min-width: 64px;
+    height: auto;
 }
 .pdesc {
     width: 80%;
-    min-width: 300px;
+    min-width: 320px;
 }
 .award-pdesc{
     width: 95%;
-    min-width: 300px;
+    min-width: 320px;
 }
 .pend {
     clear: both;
@@ -419,8 +427,9 @@ h2 {
     /* height: 80px; */
     /* border-radius: 5px; */
     /* border: 1px solid #999; */
-    max-width: 100px;min-width: 32px;
-    height: auto;
+    width: 100%;
+    /* max-width: 120px;min-width: 64px;
+    height: auto; */
 }
 .pub {
     font-size: 16px;
