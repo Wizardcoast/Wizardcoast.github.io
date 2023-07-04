@@ -104,6 +104,9 @@ body {
     margin-right: 5px;
 }
 .bottom-href-css{
+    color: #818080;
+    font-weight: normal;
+    text-decoration:none;
     background-color: #52e7777b;
 }
 .bottom-href-css:hover{
@@ -112,7 +115,7 @@ body {
 }
 .project-href-css{
     color: #333;
-    font-weight: 700;
+    font-weight: normal;
     text-decoration:none;
     background-color: #52e77760;
 }
